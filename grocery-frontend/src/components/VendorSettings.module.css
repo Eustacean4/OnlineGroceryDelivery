@@ -1,0 +1,161 @@
+.container {
+  padding: 2rem;
+  background: white;
+  border-radius: 12px;
+  max-width: 600px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  color: #1f2937;
+  text-align: center;
+}
+
+.form label {
+  display: block;
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.form input {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  margin-top: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+/* Shared button styles */
+.saveBtn,
+.cancelBtn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  margin-top: 1.5rem;
+  margin-right: 0.75rem;
+}
+
+/* Save Button */
+.saveBtn {
+  background-color: #10b981;
+  color: white;
+}
+
+.saveBtn:hover {
+  background-color: #059669;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+}
+
+/* Cancel Button */
+.cancelBtn {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.cancelBtn:hover {
+  background-color: #c0392b;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+}
+
+.notification {
+  padding: 0.75rem;
+  border-radius: 8px;
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.success {
+  background-color: #d1fae5;
+  color: #065f46;
+  border: 1px solid #10b981;
+}
+
+.error {
+  background-color: #fee2e2;
+  color: #991b1b;
+  border: 1px solid #ef4444;
+}
+
+.sectionTitle {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #1f2937;
+}
+
+.divider {
+  margin: 2rem 0;
+  border: none;
+  height: 1px;
+  background-color: #e5e7eb;
+}
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+    margin: 1rem;
+    max-width: 100%;
+    box-shadow: none;
+    border-radius: 8px;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .form label {
+    margin-bottom: 0.75rem;
+  }
+
+  .form input {
+    padding: 0.65rem;
+    font-size: 0.95rem;
+  }
+
+  .saveBtn,
+  .cancelBtn {
+    width: 100%;
+    margin-right: 0;
+    margin-top: 1rem;
+  }
+
+  .sectionTitle {
+    font-size: 1.1rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .divider {
+    margin: 1.5rem 0;
+  }
+}
+.passwordWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.toggleEye {
+  position: absolute;
+  right: 12px;
+  cursor: pointer;
+  color: #6b7280;
+  user-select: none;
+}
+
+.toggleEye:hover {
+  color: #374151;
+}

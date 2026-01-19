@@ -1,0 +1,807 @@
+[2025-08-14 11:12:57] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 11:12:59] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 11:13:00] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 11:13:00] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 11:54:28] local.INFO: Fetching payment methods for user: 12  
+[2025-08-14 11:54:28] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-14 11:54:29] local.INFO: Fetching payment methods for user: 12  
+[2025-08-14 11:54:29] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-14 12:01:36] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 12:01:38] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 12:01:39] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 12:01:39] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 12:12:07] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 12:12:09] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 12:12:10] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-14 12:12:10] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 04:17:06] local.INFO: Creating vendor support ticket {"user_id":3,"request_data":{"subject":"product","type":"product","priority":"medium","description":"cant upload"}} 
+[2025-08-15 04:17:07] local.INFO: Vendor support ticket created successfully {"ticket_id":1} 
+[2025-08-15 04:25:46] local.INFO: Creating vendor support ticket {"user_id":3,"request_data":{"subject":"business approval","type":"account","priority":"high","description":"havent approved my business"}} 
+[2025-08-15 04:25:46] local.INFO: Vendor support ticket created successfully {"ticket_id":2} 
+[2025-08-15 04:26:17] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 04:26:17] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 04:26:18] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 04:26:18] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 04:28:24] local.INFO: Creating support ticket {"user_id":12,"request_data":{"subject":"delivery","type":"delivery","priority":"high","description":"driver didnt come"}} 
+[2025-08-15 04:28:24] local.INFO: Support ticket created successfully {"ticket_id":3} 
+[2025-08-15 04:35:56] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 04:35:56] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 04:35:58] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 04:35:58] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 04:35:59] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 04:35:59] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 05:45:15] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 05:45:20] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 05:45:22] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 05:45:23] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:02:30] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 06:02:30] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 06:02:32] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 06:02:32] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 06:31:58] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:32:01] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:32:02] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:32:02] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:57:52] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:57:55] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:57:56] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 06:57:56] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 08:25:37] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 08:25:37] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 08:25:38] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 08:25:38] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 09:01:40] local.ERROR: Command "make:" is ambiguous.
+Did you mean one of these?
+    make:volt                Create a new Volt component
+    make:cache-table         Create a migration for the ...
+    make:cast                Create a new custom Eloquen...
+    make:channel             Create a new channel class
+    make:class               Create a new class
+    make:component           Create a new view component...
+    make:command             Create a new Artisan command
+    make:controller          Create a new controller class
+    make:enum                Create a new enum
+    make:event               Create a new event class
+    make:exception           Create a new custom excepti...
+    make:factory             Create a new model factory
+    make:interface           Create a new interface
+    make:job                 Create a new job class
+    make:job-middleware      Create a new job middleware...
+    make:listener            Create a new event listener...
+    make:mail                Create a new email class
+    make:middleware          Create a new HTTP middlewar...
+    make:model               Create a new Eloquent model...
+    make:notification        Create a new notification c...
+    make:notifications-table Create a migration for the ...
+    make:observer            Create a new observer class
+    make:policy              Create a new policy class
+    make:provider            Create a new service provid...
+    make:queue-failed-table  Create a migration for the ...
+    make:queue-table         Create a migration for the ...
+    make:queue-batches-table Create a migration for the ...
+    make:request             Create a new form request c...
+    make:resource            Create a new resource
+    make:rule                Create a new validation rule
+    make:scope               Create a new scope class
+    make:seeder              Create a new seeder class
+    make:session-table       Create a migration for the ...
+    make:test                Create a new test class
+    make:trait               Create a new trait
+    make:view                Create a new view
+    make:migration           Create a new migration file
+    make:livewire            Create a new Livewire compo.... {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:\" is ambiguous.
+Did you mean one of these?
+    make:volt                Create a new Volt component
+    make:cache-table         Create a migration for the ...
+    make:cast                Create a new custom Eloquen...
+    make:channel             Create a new channel class
+    make:class               Create a new class
+    make:component           Create a new view component...
+    make:command             Create a new Artisan command
+    make:controller          Create a new controller class
+    make:enum                Create a new enum
+    make:event               Create a new event class
+    make:exception           Create a new custom excepti...
+    make:factory             Create a new model factory
+    make:interface           Create a new interface
+    make:job                 Create a new job class
+    make:job-middleware      Create a new job middleware...
+    make:listener            Create a new event listener...
+    make:mail                Create a new email class
+    make:middleware          Create a new HTTP middlewar...
+    make:model               Create a new Eloquent model...
+    make:notification        Create a new notification c...
+    make:notifications-table Create a migration for the ...
+    make:observer            Create a new observer class
+    make:policy              Create a new policy class
+    make:provider            Create a new service provid...
+    make:queue-failed-table  Create a migration for the ...
+    make:queue-table         Create a migration for the ...
+    make:queue-batches-table Create a migration for the ...
+    make:request             Create a new form request c...
+    make:resource            Create a new resource
+    make:rule                Create a new validation rule
+    make:scope               Create a new scope class
+    make:seeder              Create a new seeder class
+    make:session-table       Create a migration for the ...
+    make:test                Create a new test class
+    make:trait               Create a new trait
+    make:view                Create a new view
+    make:migration           Create a new migration file
+    make:livewire            Create a new Livewire compo.... at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\symfony\\console\\Application.php:766)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\symfony\\console\\Application.php(283): Symfony\\Component\\Console\\Application->find()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\symfony\\console\\Application.php(192): Symfony\\Component\\Console\\Application->doRun()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(197): Symfony\\Component\\Console\\Application->run()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1234): Illuminate\\Foundation\\Console\\Kernel->handle()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\artisan(16): Illuminate\\Foundation\\Application->handleCommand()
+#5 {main}
+"} 
+[2025-08-15 09:02:13] local.ERROR: Command "make:migrate" is not defined.
+
+Did you mean one of these?
+    make:cache-table
+    make:cast
+    make:channel
+    make:class
+    make:command
+    make:component
+    make:controller
+    make:enum
+    make:event
+    make:exception
+    make:factory
+    make:interface
+    make:job
+    make:job-middleware
+    make:listener
+    make:livewire
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:notifications-table
+    make:observer
+    make:policy
+    make:provider
+    make:queue-batches-table
+    make:queue-failed-table
+    make:queue-table
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:session-table
+    make:test
+    make:trait
+    make:view
+    make:volt {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make:migrate\" is not defined.
+
+Did you mean one of these?
+    make:cache-table
+    make:cast
+    make:channel
+    make:class
+    make:command
+    make:component
+    make:controller
+    make:enum
+    make:event
+    make:exception
+    make:factory
+    make:interface
+    make:job
+    make:job-middleware
+    make:listener
+    make:livewire
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:notifications-table
+    make:observer
+    make:policy
+    make:provider
+    make:queue-batches-table
+    make:queue-failed-table
+    make:queue-table
+    make:request
+    make:resource
+    make:rule
+    make:scope
+    make:seeder
+    make:session-table
+    make:test
+    make:trait
+    make:view
+    make:volt at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\symfony\\console\\Application.php:725)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\symfony\\console\\Application.php(283): Symfony\\Component\\Console\\Application->find()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\symfony\\console\\Application.php(192): Symfony\\Component\\Console\\Application->doRun()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(197): Symfony\\Component\\Console\\Application->run()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1234): Illuminate\\Foundation\\Console\\Kernel->handle()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\artisan(16): Illuminate\\Foundation\\Application->handleCommand()
+#5 {main}
+"} 
+[2025-08-15 09:38:35] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 09:38:35] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 09:38:39] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 09:38:39] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 09:53:14] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 09:53:14] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 09:53:15] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 09:53:15] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 10:07:23] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 10:07:26] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 10:07:28] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 10:07:29] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-08-15 11:44:41] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 11:44:41] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 11:44:44] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 11:44:44] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 11:45:02] local.ERROR: Class "App\Http\Controllers\Stripe" not found {"userId":12,"exception":"[object] (Error(code: 0): Class \"App\\Http\\Controllers\\Stripe\" not found at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\PaymentController.php:65)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\PaymentController->createPaymentIntent()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#43 {main}
+"} 
+[2025-08-15 11:45:31] local.ERROR: Maximum execution time of 30 seconds exceeded {"userId":12,"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 30 seconds exceeded at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\storage\\framework\\views\\597c9bffa1c34501077afb225585b668.php:1)
+[stacktrace]
+#0 {main}
+"} 
+[2025-08-15 12:54:12] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 12:54:12] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 12:54:13] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 12:54:13] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 12:57:04] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 12:57:04] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 12:57:06] local.INFO: Fetching payment methods for user: 12  
+[2025-08-15 12:57:06] local.INFO: Found 1 payment methods for user: 12  
+[2025-08-15 12:57:25] local.ERROR: Class "App\Http\Controllers\Stripe" not found {"userId":12,"exception":"[object] (Error(code: 0): Class \"App\\Http\\Controllers\\Stripe\" not found at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\PaymentController.php:65)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\PaymentController->createPaymentIntent()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#43 {main}
+"} 
+[2025-08-15 13:05:30] local.ERROR: Class "App\Http\Controllers\Stripe" not found {"userId":12,"exception":"[object] (Error(code: 0): Class \"App\\Http\\Controllers\\Stripe\" not found at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\PaymentController.php:65)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\PaymentController->createPaymentIntent()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#43 {main}
+"} 
+[2025-12-05 14:49:21] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-12-05 14:49:23] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-12-05 14:49:24] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-12-05 14:49:25] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2025-12-05 16:08:08] local.INFO: Fetching payment methods for user: 14  
+[2025-12-05 16:08:08] local.INFO: Found 0 payment methods for user: 14  
+[2025-12-05 16:08:09] local.INFO: Fetching payment methods for user: 14  
+[2025-12-05 16:08:09] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:23:31] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:23:34] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:23:35] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:23:35] local.INFO: Applications fetched successfully {"count":9,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:38:35] local.INFO: Fetching payment methods for user: 3  
+[2026-01-02 08:38:35] local.INFO: Found 0 payment methods for user: 3  
+[2026-01-02 08:38:35] local.INFO: Fetching payment methods for user: 3  
+[2026-01-02 08:38:35] local.INFO: Found 0 payment methods for user: 3  
+[2026-01-02 08:39:23] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:39:25] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:39:26] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:39:26] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 08:45:36] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:45:36] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:45:36] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:45:36] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:46:54] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:46:54] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:46:55] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:46:55] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:47:10] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:47:10] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:47:11] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:47:11] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:48:41] local.ERROR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'city' cannot be null (Connection: mysql, SQL: insert into `addresses` (`street`, `building_name`, `door_number`, `city`, `state`, `postal_code`, `country`, `latitude`, `longitude`, `user_id`, `updated_at`, `created_at`) values (malazgirt sokak, gulcem apt, 1, ?, ?, N/A, ?, 35.33525447375, 33.33289718641, 14, 2026-01-02 08:48:40, 2026-01-02 08:48:40)) {"userId":14,"exception":"[object] (Illuminate\\Database\\QueryException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'city' cannot be null (Connection: mysql, SQL: insert into `addresses` (`street`, `building_name`, `door_number`, `city`, `state`, `postal_code`, `country`, `latitude`, `longitude`, `user_id`, `updated_at`, `created_at`) values (malazgirt sokak, gulcem apt, 1, ?, ?, N/A, ?, 35.33525447375, 33.33289718641, 14, 2026-01-02 08:48:40, 2026-01-02 08:48:40)) at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:822)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(776): Illuminate\\Database\\Connection->runQueryCallback()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2205): Illuminate\\Database\\Query\\Builder->insertGetId()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1410): Illuminate\\Database\\Eloquent\\Builder->__call()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1375): Illuminate\\Database\\Eloquent\\Model->insertAndSetId()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1214): Illuminate\\Database\\Eloquent\\Model->performInsert()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(370): Illuminate\\Database\\Eloquent\\Model->save()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(399): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->{closure:Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany::create():367}()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(367): tap()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\AddressController.php(101): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->create()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\AddressController->store()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#43 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#44 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#45 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#46 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#47 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#48 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#49 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#50 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#51 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#52 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#53 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#54 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#55 {main}
+
+[previous exception] [object] (PDOException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'city' cannot be null at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php:53)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(53): PDOStatement->execute()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(809): Illuminate\\Database\\MySqlConnection->{closure:Illuminate\\Database\\MySqlConnection::insert():42}()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(776): Illuminate\\Database\\Connection->runQueryCallback()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2205): Illuminate\\Database\\Query\\Builder->insertGetId()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1410): Illuminate\\Database\\Eloquent\\Builder->__call()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1375): Illuminate\\Database\\Eloquent\\Model->insertAndSetId()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1214): Illuminate\\Database\\Eloquent\\Model->performInsert()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(370): Illuminate\\Database\\Eloquent\\Model->save()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(399): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->{closure:Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany::create():367}()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(367): tap()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\AddressController.php(101): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->create()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\AddressController->store()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#43 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#44 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#45 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#46 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#47 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#48 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#49 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#50 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#51 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#52 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#53 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#54 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#55 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#56 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#57 {main}
+"} 
+[2026-01-02 08:49:02] local.ERROR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'city' cannot be null (Connection: mysql, SQL: insert into `addresses` (`street`, `building_name`, `door_number`, `city`, `state`, `postal_code`, `country`, `latitude`, `longitude`, `user_id`, `updated_at`, `created_at`) values (malazgirt sokak, gulcem apt, 1, ?, ?, N/A, ?, 35.33525447375, 33.33289718641, 14, 2026-01-02 08:49:02, 2026-01-02 08:49:02)) {"userId":14,"exception":"[object] (Illuminate\\Database\\QueryException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'city' cannot be null (Connection: mysql, SQL: insert into `addresses` (`street`, `building_name`, `door_number`, `city`, `state`, `postal_code`, `country`, `latitude`, `longitude`, `user_id`, `updated_at`, `created_at`) values (malazgirt sokak, gulcem apt, 1, ?, ?, N/A, ?, 35.33525447375, 33.33289718641, 14, 2026-01-02 08:49:02, 2026-01-02 08:49:02)) at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:822)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(776): Illuminate\\Database\\Connection->runQueryCallback()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2205): Illuminate\\Database\\Query\\Builder->insertGetId()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1410): Illuminate\\Database\\Eloquent\\Builder->__call()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1375): Illuminate\\Database\\Eloquent\\Model->insertAndSetId()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1214): Illuminate\\Database\\Eloquent\\Model->performInsert()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(370): Illuminate\\Database\\Eloquent\\Model->save()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(399): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->{closure:Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany::create():367}()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(367): tap()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\AddressController.php(101): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->create()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\AddressController->store()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#43 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#44 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#45 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#46 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#47 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#48 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#49 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#50 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#51 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#52 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#53 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#54 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#55 {main}
+
+[previous exception] [object] (PDOException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'city' cannot be null at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php:53)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(53): PDOStatement->execute()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(809): Illuminate\\Database\\MySqlConnection->{closure:Illuminate\\Database\\MySqlConnection::insert():42}()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(776): Illuminate\\Database\\Connection->runQueryCallback()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2205): Illuminate\\Database\\Query\\Builder->insertGetId()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1410): Illuminate\\Database\\Eloquent\\Builder->__call()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1375): Illuminate\\Database\\Eloquent\\Model->insertAndSetId()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1214): Illuminate\\Database\\Eloquent\\Model->performInsert()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(370): Illuminate\\Database\\Eloquent\\Model->save()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(399): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->{closure:Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany::create():367}()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(367): tap()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\AddressController.php(101): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->create()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\AddressController->store()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#43 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#44 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#45 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#46 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#47 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#48 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#49 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#50 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#51 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#52 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#53 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#54 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#55 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#56 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#57 {main}
+"} 
+[2026-01-02 08:50:03] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:50:03] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:50:04] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:50:04] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:54:46] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 08:54:46] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 08:58:42] local.ERROR: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'country' cannot be null (Connection: mysql, SQL: insert into `addresses` (`street`, `building_name`, `door_number`, `city`, `state`, `postal_code`, `country`, `latitude`, `longitude`, `user_id`, `updated_at`, `created_at`) values (malazgirt sokak, form one, 3, karakum, girne, N/A, ?, ?, ?, 14, 2026-01-02 08:58:42, 2026-01-02 08:58:42)) {"userId":14,"exception":"[object] (Illuminate\\Database\\QueryException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'country' cannot be null (Connection: mysql, SQL: insert into `addresses` (`street`, `building_name`, `door_number`, `city`, `state`, `postal_code`, `country`, `latitude`, `longitude`, `user_id`, `updated_at`, `created_at`) values (malazgirt sokak, form one, 3, karakum, girne, N/A, ?, ?, ?, 14, 2026-01-02 08:58:42, 2026-01-02 08:58:42)) at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:822)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(776): Illuminate\\Database\\Connection->runQueryCallback()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2205): Illuminate\\Database\\Query\\Builder->insertGetId()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1410): Illuminate\\Database\\Eloquent\\Builder->__call()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1375): Illuminate\\Database\\Eloquent\\Model->insertAndSetId()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1214): Illuminate\\Database\\Eloquent\\Model->performInsert()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(370): Illuminate\\Database\\Eloquent\\Model->save()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(399): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->{closure:Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany::create():367}()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(367): tap()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\AddressController.php(101): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->create()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\AddressController->store()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#43 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#44 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#45 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#46 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#47 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#48 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#49 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#50 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#51 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#52 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#53 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#54 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#55 {main}
+
+[previous exception] [object] (PDOException(code: 23000): SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'country' cannot be null at C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php:53)
+[stacktrace]
+#0 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(53): PDOStatement->execute()
+#1 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(809): Illuminate\\Database\\MySqlConnection->{closure:Illuminate\\Database\\MySqlConnection::insert():42}()
+#2 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(776): Illuminate\\Database\\Connection->runQueryCallback()
+#3 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\MySqlConnection.php(42): Illuminate\\Database\\Connection->run()
+#4 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Processors\\MySqlProcessor.php(35): Illuminate\\Database\\MySqlConnection->insert()
+#5 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(3796): Illuminate\\Database\\Query\\Processors\\MySqlProcessor->processInsertGetId()
+#6 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(2205): Illuminate\\Database\\Query\\Builder->insertGetId()
+#7 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1410): Illuminate\\Database\\Eloquent\\Builder->__call()
+#8 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1375): Illuminate\\Database\\Eloquent\\Model->insertAndSetId()
+#9 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(1214): Illuminate\\Database\\Eloquent\\Model->performInsert()
+#10 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(370): Illuminate\\Database\\Eloquent\\Model->save()
+#11 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\helpers.php(399): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->{closure:Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany::create():367}()
+#12 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany.php(367): tap()
+#13 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\app\\Http\\Controllers\\AddressController.php(101): Illuminate\\Database\\Eloquent\\Relations\\HasOneOrMany->create()
+#14 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Controller.php(54): App\\Http\\Controllers\\AddressController->store()
+#15 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\ControllerDispatcher.php(43): Illuminate\\Routing\\Controller->callAction()
+#16 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(265): Illuminate\\Routing\\ControllerDispatcher->dispatch()
+#17 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php(211): Illuminate\\Routing\\Route->runController()
+#18 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(808): Illuminate\\Routing\\Route->run()
+#19 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Routing\\Router->{closure:Illuminate\\Routing\\Router::runRouteWithinStack():807}()
+#20 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#21 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle()
+#22 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Middleware\\Authenticate.php(63): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#23 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Auth\\Middleware\\Authenticate->handle()
+#24 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#25 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(807): Illuminate\\Pipeline\\Pipeline->then()
+#26 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(786): Illuminate\\Routing\\Router->runRouteWithinStack()
+#27 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(750): Illuminate\\Routing\\Router->runRoute()
+#28 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(739): Illuminate\\Routing\\Router->dispatchToRoute()
+#29 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(200): Illuminate\\Routing\\Router->dispatch()
+#30 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(169): Illuminate\\Foundation\\Http\\Kernel->{closure:Illuminate\\Foundation\\Http\\Kernel::dispatchToRouter():197}()
+#31 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\livewire\\livewire\\src\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware.php(19): Illuminate\\Pipeline\\Pipeline->{closure:Illuminate\\Pipeline\\Pipeline::prepareDestination():167}()
+#32 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Livewire\\Features\\SupportDisablingBackButtonCache\\DisableBackButtonCacheMiddleware->handle()
+#33 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#34 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#35 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle()
+#36 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#37 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(51): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle()
+#38 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle()
+#39 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#40 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePostSize->handle()
+#41 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(109): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#42 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle()
+#43 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(61): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#44 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\HandleCors->handle()
+#45 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(58): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#46 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\TrustProxies->handle()
+#47 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks.php(22): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#48 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Foundation\\Http\\Middleware\\InvokeDeferredCallbacks->handle()
+#49 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\ValidatePathEncoding.php(26): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#50 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(208): Illuminate\\Http\\Middleware\\ValidatePathEncoding->handle()
+#51 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(126): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():183}:184}()
+#52 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(175): Illuminate\\Pipeline\\Pipeline->then()
+#53 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(144): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter()
+#54 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(1219): Illuminate\\Foundation\\Http\\Kernel->handle()
+#55 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\public\\index.php(20): Illuminate\\Foundation\\Application->handleRequest()
+#56 C:\\Users\\User\\Desktop\\onlineGroceryDeliveryApp\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(23): require_once('...')
+#57 {main}
+"} 
+[2026-01-02 09:16:54] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 09:16:55] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 09:16:57] local.INFO: Fetching payment methods for user: 14  
+[2026-01-02 09:16:57] local.INFO: Found 0 payment methods for user: 14  
+[2026-01-02 09:17:29] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 09:17:31] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 09:17:33] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 09:17:33] local.INFO: Applications fetched successfully {"count":10,"user_id":2,"user_role":"admin"} 
+[2026-01-02 09:17:49] local.INFO: Fetching payment methods for user: 2  
+[2026-01-02 09:17:49] local.INFO: Found 0 payment methods for user: 2  
+[2026-01-02 09:17:50] local.INFO: Fetching payment methods for user: 2  
+[2026-01-02 09:17:50] local.INFO: Found 0 payment methods for user: 2  

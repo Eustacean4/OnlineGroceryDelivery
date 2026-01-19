@@ -1,0 +1,236 @@
+Array
+(
+    [REQUEST_METHOD] => POST
+    [CONTENT_TYPE] => multipart/form-data; boundary=----WebKitFormBoundarydSZWXqgmNBvuKOrv
+    [POST_DATA] => Array
+        (
+            [name] => new market
+            [email] => nduchimaobi4@gmail.com
+            [phone] => +905338756954
+            [address] => malazgirt sokak, big building , door 4
+        )
+
+    [FILES_DATA] => Array
+        (
+            [logo] => Array
+                (
+                    [name] => new-business-logo.jpeg
+                    [full_path] => new-business-logo.jpeg
+                    [type] => image/jpeg
+                    [tmp_name] => C:\Users\User\AppData\Local\Temp\php4C4.tmp
+                    [error] => 0
+                    [size] => 38073
+                )
+
+            [business_license] => Array
+                (
+                    [name] => business license-min.png
+                    [full_path] => business license-min.png
+                    [type] => image/png
+                    [tmp_name] => C:\Users\User\AppData\Local\Temp\php4C5.tmp
+                    [error] => 0
+                    [size] => 434741
+                )
+
+            [tax_certificate] => Array
+                (
+                    [name] => Tax certificate-min.png
+                    [full_path] => Tax certificate-min.png
+                    [type] => image/png
+                    [tmp_name] => C:\Users\User\AppData\Local\Temp\php4C6.tmp
+                    [error] => 0
+                    [size] => 375093
+                )
+
+            [owner_id_document] => Array
+                (
+                    [name] => owner id-min.png
+                    [full_path] => owner id-min.png
+                    [type] => image/png
+                    [tmp_name] => C:\Users\User\AppData\Local\Temp\php4C7.tmp
+                    [error] => 0
+                    [size] => 391836
+                )
+
+            [address_proof] => Array
+                (
+                    [name] => lease agreement-min.png
+                    [full_path] => lease agreement-min.png
+                    [type] => image/png
+                    [tmp_name] => C:\Users\User\AppData\Local\Temp\php4C8.tmp
+                    [error] => 0
+                    [size] => 390489
+                )
+
+            [health_safety_cert] => Array
+                (
+                    [name] => health permit-min.png
+                    [full_path] => health permit-min.png
+                    [type] => image/png
+                    [tmp_name] => C:\Users\User\AppData\Local\Temp\php4C9.tmp
+                    [error] => 0
+                    [size] => 382887
+                )
+
+            [storefront_photos] => Array
+                (
+                    [name] => Array
+                        (
+                            [0] => storefront 1-min.png
+                            [1] => storefront 2-min.png
+                        )
+
+                    [full_path] => Array
+                        (
+                            [0] => storefront 1-min.png
+                            [1] => storefront 2-min.png
+                        )
+
+                    [type] => Array
+                        (
+                            [0] => image/png
+                            [1] => image/png
+                        )
+
+                    [tmp_name] => Array
+                        (
+                            [0] => C:\Users\User\AppData\Local\Temp\php4DA.tmp
+                            [1] => C:\Users\User\AppData\Local\Temp\php4DB.tmp
+                        )
+
+                    [error] => Array
+                        (
+                            [0] => 0
+                            [1] => 0
+                        )
+
+                    [size] => Array
+                        (
+                            [0] => 592328
+                            [1] => 544204
+                        )
+
+                )
+
+        )
+
+    [REQUEST_ALL] => Array
+        (
+            [name] => new market
+            [email] => nduchimaobi4@gmail.com
+            [phone] => +905338756954
+            [address] => malazgirt sokak, big building , door 4
+            [logo] => Illuminate\Http\UploadedFile Object
+                (
+                    [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => new-business-logo.jpeg
+                    [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/jpeg
+                    [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                    [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => new-business-logo.jpeg
+                    [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                    [hashName:protected] => 
+                    [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4C4.tmp
+                    [fileName:SplFileInfo:private] => php4C4.tmp
+                )
+
+            [business_license] => Illuminate\Http\UploadedFile Object
+                (
+                    [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => business license-min.png
+                    [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/png
+                    [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                    [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => business license-min.png
+                    [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                    [hashName:protected] => 
+                    [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4C5.tmp
+                    [fileName:SplFileInfo:private] => php4C5.tmp
+                )
+
+            [tax_certificate] => Illuminate\Http\UploadedFile Object
+                (
+                    [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Tax certificate-min.png
+                    [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/png
+                    [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                    [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => Tax certificate-min.png
+                    [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                    [hashName:protected] => 
+                    [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4C6.tmp
+                    [fileName:SplFileInfo:private] => php4C6.tmp
+                )
+
+            [owner_id_document] => Illuminate\Http\UploadedFile Object
+                (
+                    [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => owner id-min.png
+                    [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/png
+                    [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                    [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => owner id-min.png
+                    [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                    [hashName:protected] => 
+                    [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4C7.tmp
+                    [fileName:SplFileInfo:private] => php4C7.tmp
+                )
+
+            [address_proof] => Illuminate\Http\UploadedFile Object
+                (
+                    [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => lease agreement-min.png
+                    [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/png
+                    [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                    [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => lease agreement-min.png
+                    [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                    [hashName:protected] => 
+                    [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4C8.tmp
+                    [fileName:SplFileInfo:private] => php4C8.tmp
+                )
+
+            [health_safety_cert] => Illuminate\Http\UploadedFile Object
+                (
+                    [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => health permit-min.png
+                    [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/png
+                    [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                    [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => health permit-min.png
+                    [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                    [hashName:protected] => 
+                    [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4C9.tmp
+                    [fileName:SplFileInfo:private] => php4C9.tmp
+                )
+
+            [storefront_photos] => Array
+                (
+                    [0] => Illuminate\Http\UploadedFile Object
+                        (
+                            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => storefront 1-min.png
+                            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/png
+                            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                            [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => storefront 1-min.png
+                            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                            [hashName:protected] => 
+                            [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4DA.tmp
+                            [fileName:SplFileInfo:private] => php4DA.tmp
+                        )
+
+                    [1] => Illuminate\Http\UploadedFile Object
+                        (
+                            [originalName:Symfony\Component\HttpFoundation\File\UploadedFile:private] => storefront 2-min.png
+                            [mimeType:Symfony\Component\HttpFoundation\File\UploadedFile:private] => image/png
+                            [error:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 0
+                            [originalPath:Symfony\Component\HttpFoundation\File\UploadedFile:private] => storefront 2-min.png
+                            [test:Symfony\Component\HttpFoundation\File\UploadedFile:private] => 
+                            [hashName:protected] => 
+                            [pathName:SplFileInfo:private] => C:\Users\User\AppData\Local\Temp\php4DB.tmp
+                            [fileName:SplFileInfo:private] => php4DB.tmp
+                        )
+
+                )
+
+        )
+
+    [HAS_FILES] => Array
+        (
+            [logo] => 1
+            [business_license] => 1
+            [tax_certificate] => 1
+            [owner_id_document] => 1
+            [health_safety_cert] => 1
+            [address_proof] => 1
+            [storefront_photos] => 1
+        )
+
+)
